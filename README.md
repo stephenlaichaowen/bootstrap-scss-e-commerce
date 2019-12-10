@@ -10,6 +10,8 @@
 * if we only need the grid system, simply import it
 
 > _variables.scss
+* define all of the variables
+* **this file is very important**
 
 
 
