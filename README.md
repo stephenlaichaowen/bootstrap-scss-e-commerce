@@ -13,5 +13,10 @@
 * define all of the variables
 * **this file is very important**
 
+> modify component style in (```_variables.scss```)
+* $theme-color
+* $navbar-padding-y
+* $navbar-nav-link-padding-x
+
 
 
